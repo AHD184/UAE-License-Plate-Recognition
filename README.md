@@ -4,6 +4,15 @@ A computer-vision pipeline for UAE licence plate detection, plate-text recogniti
 
 The project compares multiple detector architectures on the same frozen train/validation/test split and extends the detector with OCR and seven-emirate classification.
 
+## Team
+
+This project was developed by:
+
+- **Adrish Danka**
+- **Azim Mohamed**
+- **Mohammed Rashdan**
+- **Sam Tom**
+
 ## Project Overview
 
 The final application pipeline is:
